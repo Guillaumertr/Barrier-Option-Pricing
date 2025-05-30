@@ -69,3 +69,15 @@ Perfect for:
 ## 📚 References
 
 - Pages, G. *Introduction to Numerical Probabilities for Finance*
+
+## 👤 Author
+
+👨‍💻 Guillaume Routier  
+🎓 MSc Probabilité & Finance – École Polytechnique & Sorbonne Université  
+📬 [Contact me on LinkedIn](https://www.linkedin.com/in/guillaume-routier/)
+
+---
+
+## 📌 Disclaimer
+
+These notebooks are for educational and demonstrative purposes only. They do not constitute financial advice.
